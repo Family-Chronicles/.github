@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The Family Chronicles project is an attempt to develop a family tree management tool. The focus here is on an open API that should support existing standards, but also provide its own more complex interfaces. The vision is to make instances of the API linkable by administrators to form multiple family pedigrees into one big whole.
+The Family Chronicles project is an attempt to develop a family tree management tool. The focus is on an open API that will support existing standards but also provide its own, more complex interfaces. The vision is that instances of the API can be linked by administrators to combine multiple family trees into one big whole.
 
 <!--
 
